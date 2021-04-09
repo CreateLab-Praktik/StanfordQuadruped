@@ -4,12 +4,12 @@ yes | pip install numpy transforms3d pigpio pyserial
 yes | sudo pip install numpy transforms3d pigpio pyserial
 
 cd ..
-git clone https://github.com/stanfordroboticsclub/PupperCommand.git
+git clone https://github.com/CreateLab-Praktik/PupperCommand.git
 cd PupperCommand
 sudo bash install.sh
 cd ..
 
-git clone https://github.com/stanfordroboticsclub/PS4Joystick.git
+git clone https://github.com/CreateLab-Praktik/PS4Joystick.git
 cd PS4Joystick
 sudo bash install.sh
 cd ..
